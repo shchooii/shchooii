@@ -46,4 +46,4 @@ Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm
 
 <br>
 
-[![Git Blog](https://img.shields.io/badge/Git%20Blog-blue?style=for-the-badge&logo=bitrise)](https://shchoi02.github.io)
+[![Git Blog](https://img.shields.io/badge/Git%20Blog-blue?style=for-the-badge&logo=bitrise)](https://shchooii.github.io)
