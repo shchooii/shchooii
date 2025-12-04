@@ -4,7 +4,7 @@
 Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm interested in Long-Tailed Learning and Large Language Models. I'm diving into backend development too.
 
 > 📅 **B.S.** in Computer Engineering, *Seoul National University of Science and Technology* (2020.03 – 2024.08) <br>
-> 🎓 **M.S.** in progress, *Medical AI MixLab* (2024.09 – Present)
+> 🎓 **M.S.** in progress, *Medical AI MIX LAB* (2024.09 – Present)
 
 ### 👨‍💻 Project
 
