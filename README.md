@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Projects
 
-### 🏛️ Graduate Research
+### Graduate Research
 `Medical Imaging` | `Clinical NLP` | `Biosignal Analysis`
 
 | Project | Description | Role |
@@ -39,7 +39,7 @@
 
 <br/>
 
-### 🏫 Undergraduate Projects
+### Undergraduate Projects
 `Speech Recognition` | `Object Detection` | `Backend` 
 
 | Project | Description | Role | Note |
