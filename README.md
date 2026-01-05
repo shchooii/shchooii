@@ -26,9 +26,7 @@
 ## 🎓 Education
 <p> <b>석사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2024.09 ~ 현재 <br/> </p> <br/> <p> <b>학사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2020.03 ~ 2024.08 <br/> <span>
 
-## 👨‍💻 Projects
-
-### Graduate Research
+### Research Projects
 `Medical Imaging` | `Clinical NLP` | `Biosignal Analysis`
 
 | Project | Description | Role | Note |
