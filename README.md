@@ -12,20 +12,19 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-<br/><br/>
-
-[![Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://shchooii.github.io)
-[![Mail](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인의이메일주소@example.com)
-
 ## 🎓 Education
-<p> <b>석사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2024.09 ~ 현재 <br/> </p> <br/> <p> <b>학사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2020.03 ~ 2024.08 <br/>
-<br>
+<p>
+  <b>M.S. Student</b> in Computer Engineering <br/>
+  Medical AI MIXLAB <br/>
+  서울과학기술대학교 | 2024.09 ~ Present
+</p>
+
+<p>
+  <b>B.S.</b> in Computer Engineering <br/>
+  서울과학기술대학교 | 2020.03 ~ 2024.08
+</p>
+
+<br/>
   
 ## Research Projects
 `Medical Imaging` | `Clinical NLP` | `Biosignal Analysis`
@@ -46,6 +45,11 @@
 | [LectureListen](https://github.com/shchooii/LectureListen) | 음성인식 모델 학습 서비스 | 모델 학습 파이프라인 | 2023 SCI 부트캠프 최우수상 |
 | [AutoDriveAI](https://github.com/shchooii/AutoDriveAI) | 자율주행 데이터셋 구축 | 2DBB 데이터 라벨링 | 2023 자율주행 챌린지 장려상 |
 | [Vista](https://github.com/shchooii/LlamaVista) | 데이터 분석 자동화 | 백엔드, DevOps | - |
+
+<br/><br/>
+
+[![Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://shchooii.github.io)
+[![Mail](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인의이메일주소@example.com)
 
 </div>
 
