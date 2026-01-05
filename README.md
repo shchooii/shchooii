@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Seunghun Choi
+## 👋 Hi there, I'm Seunghun Choi
 
 ### 🩺 Medical AI Researcher
 `Long-tailed Learning` | `Multi-label Classification` <br>
@@ -24,9 +24,10 @@
 [![Mail](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인의이메일주소@example.com)
 
 ## 🎓 Education
-<p> <b>석사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2024.09 ~ 현재 <br/> </p> <br/> <p> <b>학사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2020.03 ~ 2024.08 <br/> <span>
-
-### Research Projects
+<p> <b>석사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2024.09 ~ 현재 <br/> </p> <br/> <p> <b>학사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2020.03 ~ 2024.08 <br/>
+<br>
+  
+## Research Projects
 `Medical Imaging` | `Clinical NLP` | `Biosignal Analysis`
 
 | Project | Description | Role | Note |
@@ -37,7 +38,7 @@
 
 <br/>
 
-### Undergraduate Projects
+## Undergraduate Projects
 `Speech Recognition` | `Object Detection` | `Backend` 
 
 | Project | Description | Role | Note |
