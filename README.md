@@ -32,8 +32,8 @@
 | Project | Description | Role | Note |
 | :--- | :--- | :--- | :--- |
 | [CXR-LT](https://github.com/shchooii/CXR-LT)  | 클래스 불균형 환경에서의 흉부 X-ray 분류  | 모델 아키텍처, Long-tailed Loss 설계| |
-| [ICD Coding](https://github.com/shchooii/icd-coding) | 임상 텍스트 기반 다중 질병 코드 자동 예측 | PLM 파이프라인 구축 및 임계값 최적화 | |
-| [DASH](https://github.com/shchooii/DASH) | 단일 유도 ECG 기반 수면 무호흡 탐지 및 앱 | ECG 신호 전처리, 분석 결과 시각화 | |
+| [ICD Coding](https://github.com/shchooii/icd-coding) | 임상 텍스트 기반 질병 코드 자동 예측 | PLM 파이프라인 구축 및 임계값 최적화 | |
+| [DASH](https://github.com/shchooii/DASH) | ECG 기반 수면 무호흡 탐지 및 앱 | ECG 신호 전처리, 분석 결과 시각화 | |
 
 <br/>
 
