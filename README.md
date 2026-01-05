@@ -6,7 +6,7 @@
 `Long-tailed Learning` | `Multi-label Classification` <br>
 
   <p>
-    의료 영상(CXR)과 임상 텍스트 데이터를 다루며,<br/>
+    의료 영상과 임상 텍스트 데이터를 다루며,<br/>
     현실 세계의 <b>불균형한 데이터(Long-tailed)</b> 문제를 해결하는 실용적인 AI를 연구합니다.
   </p>
 
