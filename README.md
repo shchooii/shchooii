@@ -41,17 +41,12 @@
 
 ### 🏫 Undergraduate Projects
 `Speech Recognition` | `Object Detection` | `Backend` 
-<details>
-<summary><b>Click to expand</b></summary>
-<br/>
 
 | Project | Description | Role | Note |
 | :--- | :--- | :--- | :--- |
 | [LectureListen](https://github.com/shchooii/LectureListen) | 음성인식 모델 학습 서비스 | 모델 학습 파이프라인 | 2023 SCI 부트캠프 최우수상 |
 | [AutoDriveAI](https://github.com/shchooii/AutoDriveAI) | 자율주행 데이터셋 구축 | 2DBB 데이터 라벨링 | 2023 자율주행 챌린지 장려상 |
 | [Vista](https://github.com/shchooii/LlamaVista) | 데이터 분석 자동화 | 백엔드, DevOps | - |
-
-</details>
 
 </div>
 
