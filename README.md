@@ -3,9 +3,7 @@
 # 👋 Hi there, I'm Seunghun Choi
 
 ### 🩺 Medical AI Researcher
-Deep Learning for Healthcare | Multi-label Learning | Long-tailed Recognition
-
-  <br/>
+`Long-tailed Learning` | `Multi-label Classification` <br>
 
   <p>
     의료 영상(CXR)과 임상 텍스트 데이터를 다루며,<br/>
@@ -25,38 +23,24 @@ Deep Learning for Healthcare | Multi-label Learning | Long-tailed Recognition
 [![Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://shchooii.github.io)
 [![Mail](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인의이메일주소@example.com)
 
-## 🔬 Research Interest
-- Long-tailed Recognition: 클래스 불균형 해결을 위한 Loss Function 및 학습 기법
-- Multi-label Learning: 다중 질병 동시 진단을 위한 멀티라벨 분류 방법론
-- Medical Imaging: 흉부 X-ray(CXR) 기반 다중 질환 분류 (Classification)
-- Clinical NLP: 임상 텍스트 분석 및 ICD-10 자동 코딩
-- Biosignal Analysis: ECG 신호 처리를 통한 수면 무호흡 등 이상 징후 탐지
-
-<br/>
-
 ## 🎓 Education
-| Period | Degree | Institution | Note |
-|:---:|:---:|:---|:---|
-| `2024.09 ~` | 석사과정 | 서울과학기술대학교 | 컴퓨터공학과 (Medical AI MIX LAB) |
-| `2020.03 ~ 2024.08` | 학사 | 서울과학기술대학교 | 컴퓨터공학과 |
-
-<br/>
+<p> <b>석사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2024.09 ~ 현재 <br/> </p> <br/> <p> <b>학사과정</b> · 컴퓨터공학 <br/> 서울과학기술대학교 &nbsp;|&nbsp; 2020.03 ~ 2024.08 <br/> <span>
 
 ## 👨‍💻 Projects
 
 ### 🏛️ Graduate Research
-> Medical AI · Deep Learning
+`Medical Imaging` | `Clinical NLP` | `Biosignal Analysis`
 
-| Project | Description & Role | Keywords |
+| Project | Description | Role |
 | :--- | :--- | :--- |
-| CXR-LT Classification | [설명] 클래스 불균형 환경에서의 흉부 X-ray 멀티라벨 분류<br>[역할] 모델 아키텍처 설계, Long-tailed Loss 실험 및 검증 | `CXR`<br>`Multi-label`<br>`PyTorch` |
-| Automated ICD-10 Coding | [설명] 임상 텍스트 기반 다중 질병 코드 자동 예측 모델<br>[역할] PLM 파이프라인 구축 및 임계값 최적화 | `NLP`<br>`Transformer`<br>`PLT-MLC` |
-| Sleep Apnea Detection | [설명] 단일 유도 ECG 기반 수면 무호흡 탐지 및 앱 프로토타입<br>[역할] ECG 신호 전처리, 딥러닝 모델링, 앱 구현 | `ECG`<br>`Biosignal`<br>`App Dev` |
+| CXR-LT Classification | 클래스 불균형 환경에서의 흉부 X-ray 분류  | 모델 아키텍처 설계, Long-tailed Loss 실험|
+| Automated ICD-10 Coding | 임상 텍스트 기반 다중 질병 코드 자동 예측 모델  | PLM 파이프라인 구축 및 임계값 최적화 |
+| Sleep Apnea Detection | 단일 유도 ECG 기반 수면 무호흡 탐지 및 앱 | ECG 신호 전처리, 딥러닝 모델링, 앱 구현 |
 
 <br/>
 
 ### 🏫 Undergraduate Projects
-> Speech Recognition · Object Detection · Backend 
+`Speech Recognition` | `Object Detection` | `Backend` 
 <details>
 <summary><b>Click to expand</b></summary>
 <br/>
