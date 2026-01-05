@@ -51,10 +51,3 @@
 </div>
 
 <br/>
-
-
-<br/>
-<hr/>
-<div align="center">
-  <sub>Last updated: 2026.01</sub>
-</div>
