@@ -46,10 +46,7 @@
 | [AutoDriveAI](https://github.com/shchooii/AutoDriveAI) | 자율주행 데이터셋 구축 | 2DBB 데이터 라벨링 | 2023 자율주행 챌린지 장려상 |
 | [Vista](https://github.com/shchooii/LlamaVista) | 데이터 분석 자동화 | 백엔드, DevOps | - |
 
-<br/><br/>
-
-[![Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://shchooii.github.io)
-[![Mail](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인의이메일주소@example.com)
+<br/>
 
 </div>
 
