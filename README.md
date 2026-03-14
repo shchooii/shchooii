@@ -31,7 +31,7 @@
 
 | Project | Description | Role | Note |
 | :--- | :--- | :--- | :--- |
-| [ICD Coding](https://github.com/shchooii/icd-coding2) | 임상 텍스트 기반 질병 코드 자동 예측 | PLM, Threshold tuning | 진행중. |
+| [ICD Coding](https://github.com/shchooii/icd-coding2) | 임상 텍스트 기반 질병 코드 자동 예측 | PLM, Threshold tuning | IEEE ACCESS 리비전 단계 |
 | [DASH](https://github.com/shchooii/DASH) | ECG 기반 수면 무호흡 탐지 및 앱 | ECG 신호 전처리, 결과 시각화 | BIBM 2025, 2저자|
 | [CXR-LT](https://github.com/shchooii/CXR-LT)  | 클래스 불균형 환경에서의 흉부 X-ray 분류  | 모델 아키텍처, Loss 설계| 진행중. |
 
