@@ -25,7 +25,7 @@
 <p>
   <b>M.S. Student</b> in Computer Engineering <br/>
   Medical AI MIXLAB <br/>
-  서울과학기술대학교 | 2024.09 ~ 2026.08 (Expected)
+  서울과학기술대학교 | 2024.09 ~ Present
 </p>
 
 <p>
