@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/Portfolio-08793b174545822cb8a681ae8e542354?source=copy_link">
+  <a href="https://app.notion.com/p/Portfolio-08793b174545822cb8a681ae8e542354">
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=flat-square" />
   </a>
   <a href="https://shchooii.github.io/">
