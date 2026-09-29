@@ -7,12 +7,8 @@
 `Long-tailed Learning` | `LLM`
 
 <p>
-딥러닝을 기반으로 의료 AI를 연구합니다.
-</p>
-
-<p>
   <b>Ph.D. Student</b> · Medical AI MIXLAB <br/>
-  SeoulTech
+  서울과학기술대학교 · 2026.09 ~ Present
 </p>
 
 <p>
