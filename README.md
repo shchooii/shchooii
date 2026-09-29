@@ -2,37 +2,26 @@
 
 ## 👋 Hi there, I'm Seunghun Choi
 
-### AI Researcher | 🩺 Medical AI
+### 🩺 Medical AI · Deep Learning
 
-`Long-tailed Learning` | `Multi-label Classification` <br>
+`Long-tailed Learning` | `LLM`
 
 <p>
-의료 영상과 임상 텍스트 데이터를 기반으로,<br/>
-현실 세계에서 나타나는 <b>Long-tailed 데이터 불균형 문제</b>를 연구합니다.
+딥러닝을 기반으로 의료 AI를 연구합니다.
 </p>
 
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-View-black?style=flat-square" />
-  </a>
+<p>
+  <b>Ph.D. Student</b> · Medical AI MIXLAB <br/>
+  SeoulTech
+</p>
+
+<p>
   <a href="https://shchooii.github.io/">
     <img src="https://img.shields.io/badge/Blog-Visit-black?style=flat-square" />
   </a>
-</p>
-
-<br/>
-
-## 🎓 Education
-
-<p>
-  <b>M.S. Student</b> in Computer Engineering <br/>
-  Medical AI MIXLAB <br/>
-  서울과학기술대학교 | 2024.09 ~ Present
-</p>
-
-<p>
-  <b>B.S.</b> in Computer Engineering <br/>
-  서울과학기술대학교 | 2020.03 ~ 2024.08
+  <a href="https://www.threads.com/@shchooii?hl=ko">
+    <img src="https://img.shields.io/badge/Threads-Profile-black?style=flat-square" />
+  </a>
 </p>
 
 <br/>
@@ -41,22 +30,33 @@
 
 <p>
   <a href="https://ieeexplore.ieee.org/document/11589268">
-    <b>Mitigating Multi-label Imbalance in ICD Coding: A Comprehensive Evaluation of Loss Functions and Threshold Optimization</b>
+    <b>
+      Mitigating Multi-label Imbalance in ICD Coding:
+      A Comprehensive Evaluation of Loss Functions and Threshold Optimization
+    </b>
   </a>
   <br/>
-  <b>Seunghun Choi</b>, Won-Seok Hong, Hyun Won Lee, and Hyun-Soo Choi
-  <br/>
-  <i>IEEE Access, 2026</i> | First Author
+  <i>IEEE Access, 2026</i> · First Author
 </p>
 
 <p>
   <a href="https://ieeexplore.ieee.org/document/11356793">
-    <b>DASH: Deep-Learning-Based Apnea Screening with AHI Estimation from Single-Lead ECG</b>
+    <b>
+      DASH: Deep-Learning-Based Apnea Screening with
+      AHI Estimation from Single-Lead ECG
+    </b>
   </a>
   <br/>
-  Won-Seok Hong, <b>Seunghun Choi</b>, Kwon Hong, Woo Hyun Lee, and Hyun-Soo Choi
+  <i>IEEE BIBM, 2025</i> · Second Author
+</p>
+
+<p>
+  <b>
+    Hardly Better than Binary-Cross Entropy:
+    Imbalance-Aware Losses under Tuned Thresholds in Long-Tailed Chest X-Ray Classification
+  </b>
   <br/>
-  <i>IEEE BIBM, 2025</i> | Second Author
+  <i>Submitted to ML4H 2026 Findings</i> · First Author
 </p>
 
 </div>
