@@ -26,8 +26,8 @@
 
 <p>
   <a href="https://ieeexplore.ieee.org/document/11589268">
-      Mitigating Multi-label Imbalance in ICD Coding:
-      A Comprehensive Evaluation of Loss Functions and Threshold Optimization
+    Mitigating Multi-label Imbalance in ICD Coding:
+    A Comprehensive Evaluation of Loss Functions and Threshold Optimization
   </a>
   <br/>
   <i>IEEE Access, 2026</i> · First Author
@@ -35,16 +35,16 @@
 
 <p>
   <a href="https://ieeexplore.ieee.org/document/11356793">
-      DASH: Deep-Learning-Based Apnea Screening with
-      AHI Estimation from Single-Lead ECG
+    DASH: Deep-Learning-Based Apnea Screening with
+    AHI Estimation from Single-Lead ECG
   </a>
   <br/>
   <i>IEEE BIBM, 2025</i> · Second Author
 </p>
 
 <p>
-    Hardly Better than Binary-Cross Entropy:
-    Imbalance-Aware Losses under Tuned Thresholds in Long-Tailed Chest X-Ray Classification
+  Hardly Better than Binary-Cross Entropy:
+  Imbalance-Aware Losses under Tuned Thresholds in Long-Tailed Chest X-Ray Classification
   <br/>
   <i>Submitted to ML4H 2026 Findings</i> · First Author
 </p>
